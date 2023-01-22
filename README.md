@@ -4,7 +4,7 @@ Sanja Ilic-ic21b110 (Github: saneey03)
 
 Angelo Ottendorfer-ic21b113 (Github: AngeloOttendorfer)
 
-Nermina Salkic-ic21b114 (Github: nsanes)
+Nermina Salkic-ic21b114 (Github: nsanes oder norm01)
 
 ## Projektwahl: Messenger Chat (MSN)
 miteinander Chatten können. Dort sollen die Mitarbeiter sehen wer aller online ist und einen Chat starten.
